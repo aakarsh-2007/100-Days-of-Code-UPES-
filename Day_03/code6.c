@@ -14,7 +14,8 @@ After swap: 1 -1
 
 #include <stdio.h>
 
-int main() {
+int main()
+{
     int a, b, temp;
 
     printf("Enter two numbers: ");
