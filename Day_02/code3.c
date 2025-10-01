@@ -13,7 +13,7 @@ Output 2:
 Sum=10, Diff=4, Product=21, Quotient=2
 */
 
-#include <stdio.h>
+#include<stdio.h>
 
 int main() {
     int a, b;
