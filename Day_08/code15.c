@@ -23,7 +23,7 @@ Output 4:
 Special character
 */
 
-#include <stdio.h>
+#include<stdio.h>
 
 int main() {
     char ch;
