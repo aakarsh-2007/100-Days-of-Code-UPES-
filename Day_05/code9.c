@@ -13,7 +13,7 @@ Output 2:
 Simple Interest=1050, Compound Interest=1125.76
 */
 
-#include <stdio.h>
+#include<stdio.h>
 #include <math.h>
 
 int main() {
