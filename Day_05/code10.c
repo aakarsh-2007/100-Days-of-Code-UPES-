@@ -14,7 +14,8 @@ Output 2:
 
 #include <stdio.h>
 
-int main() {
+int main()
+{
     int total_seconds, hours, minutes, seconds;
 
     printf("Enter time in seconds: ");
