@@ -12,9 +12,10 @@ Output 2:
 After swap: 14 7
 */
 
-#include<stdio.h>
+#include <stdio.h>
 
-int main() {
+int main()
+{
     int a, b;
 
     printf("Enter two numbers: ");
