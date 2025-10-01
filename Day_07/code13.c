@@ -18,7 +18,7 @@ Output 3:
 Leap year
 */
 
-#include <stdio.h>
+#include<stdio.h>
 
 int main() {
     int year;
