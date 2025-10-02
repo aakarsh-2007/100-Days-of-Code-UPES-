@@ -11,6 +11,7 @@ Input 2:
 Output 2:
 Not prime
 */
+
 #include <stdio.h>
 
 int main()
